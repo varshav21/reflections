@@ -1,0 +1,5 @@
+1) Repository helps to track certain files through the git version control.
+
+2) Staging area allows files to be tracked by git and get ready to perform a commit.working directory is still under progress.
+
+3)
