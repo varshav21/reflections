@@ -1,0 +1,18 @@
+1) The diff command compares the first file and second file and returns the additions and deletions in the second file compared to the original file.Thus we can conclude that any bug was introduced by any of the changes shown by diff.
+
+2) By saving different versions of a software we can go back to the previous version any time we want.
+
+3) pros:
+	can commit after major changes.
+   cons: 
+	more prone to accidently lose data if not saved automatically.
+
+4) It helps edit multiple files which produce related changes when executed.
+
+5) git log gives shows all the commits saved with an id assigned to each commit.git diff can then be used by entering the two separate ids.
+
+6) We need not worry since since version can be saved separately and the previous version could be obtained quite easily.
+
+7) To participate in google summer of code
+
+8)
